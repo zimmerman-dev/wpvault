@@ -1,0 +1,4 @@
+wallpapers.db
+logs/
+*.sqlite-shm
+*.sqlite-wal
